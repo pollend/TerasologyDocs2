@@ -39,7 +39,8 @@ const siteConfig = {
     // For no header links in the top nav bar -> headerLinks: [],
     headerLinks: [
         {doc: 'why-terasology', label: 'About'},
-        {doc: 'getting-started-asset-system-setup', label: 'Getting Started'},
+        {doc: 'contributing-dev-setup', label: 'Getting Started'},
+        {doc: 'getting-started-asset-system-add-new-block', label: 'Tutorials'},
         {page: 'help', label: 'Help'},
         {blog: true, label: 'Blog'},
     ],

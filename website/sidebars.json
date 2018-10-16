@@ -1,28 +1,41 @@
 {
   "docs": {
-    "architecture": [
+    "Architecture": [
       "engine-entity-system-architecture",
       "engine-entity-system-concepts",
       "engine-events",
       "engine-events-and-systems"
+    ],
+    "Asset Creation":[
+      "engine-assets-collada-models"
+    ],
+    "Modding API": [
+      "developing-commands",
+      "engine-events"
     ]
+
   },
   "Getting Started": {
     "Setup":[
-      "contributing-dev-setup"
+      "contributing-dev-setup",
+      "modding-guide-setup",
+      "developing-modules",
+      "setting-up-a-light-environment",
+      "Setup-a-headless-server"
     ],
-    "Code Contributions":[
+    "Contributing Code":[
       "contributing-versioning",
-      "dealing-with-forks"
-    ],
-    "Github And Git:":[
-      "labelling-issues-and-pull-request"
+      "dealing-with-forks",
+      "labelling-issues-and-pull-request",
+      "contributing-checkstyle",
+      "contributing-coding-conventions",
+      "contributing-conventions"
     ],
     "Workspace": [
       "tools-eclipse"
     ],
     "Testing":[
-      "unit-testing",
+      "development-unit-testing",
       "replay-tests"
     ],
     "Translation":[
@@ -31,6 +44,9 @@
     "Recording and Capturing": [
       "tools-gif-cam"
     ],
+    "Communivation":[
+      "communication-using-irc"
+    ],
     "Art Tools": [
       "tools-gimp",
       "tools-gimp-for-texturing",
@@ -38,14 +54,8 @@
       "tools-gimp",
       "tools-gimp-for-texturing",
       "tools-json-editor-online",
-      "tools-aseprite"
-    ],
-    "Other":[
-      "google-code-in",
-      "google-summer-of-code",
-      "google-summer-of-code-mentoring",
-      "google-summer-of-code-project-structure"
-
+      "tools-aseprite",
+      "tools-piko-pixel-for-texturing"
     ]
   },
   "Tutorials":{
@@ -63,6 +73,6 @@
       "getting-started-asset-system-add-new-creature",
       "getting-started-asset-system-installing-blender-add-on",
       "getting-started-asset-system-preparing-model-for-export"
-    ],
+    ]
   }
 }
