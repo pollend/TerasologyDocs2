@@ -1,10 +1,68 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "architecture": [
+      "engine-entity-system-architecture",
+      "engine-entity-system-concepts",
+      "engine-events",
+      "engine-events-and-systems"
+    ]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "Getting Started": {
+    "Setup":[
+      "contributing-dev-setup"
+    ],
+    "Code Contributions":[
+      "contributing-versioning",
+      "dealing-with-forks"
+    ],
+    "Github And Git:":[
+      "labelling-issues-and-pull-request"
+    ],
+    "Workspace": [
+      "tools-eclipse"
+    ],
+    "Testing":[
+      "unit-testing",
+      "replay-tests"
+    ],
+    "Translation":[
+      "contributing-translation-guide"
+    ],
+    "Recording and Capturing": [
+      "tools-gif-cam"
+    ],
+    "Art Tools": [
+      "tools-gimp",
+      "tools-gimp-for-texturing",
+      "tools-gif-cam",
+      "tools-gimp",
+      "tools-gimp-for-texturing",
+      "tools-json-editor-online",
+      "tools-aseprite"
+    ],
+    "Other":[
+      "google-code-in",
+      "google-summer-of-code",
+      "google-summer-of-code-mentoring",
+      "google-summer-of-code-project-structure"
+
+    ]
+  },
+  "Tutorials":{
+    "Creating A Module": [
+      "getting-started-asset-system-setup"
+    ],
+    "Creating a New Block": [
+      "getting-started-asset-system-add-new-block",
+      "getting-started-asset-system-block-attributes",
+      "getting-started-asset-system-block-definition",
+      "getting-started-asset-system-add-a-dice",
+      "getting-started-asset-system-custom-block-shapes"
+    ],
+    "Create a New Creature":[
+      "getting-started-asset-system-add-new-creature",
+      "getting-started-asset-system-installing-blender-add-on",
+      "getting-started-asset-system-preparing-model-for-export"
+    ],
   }
 }
